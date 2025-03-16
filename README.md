@@ -31,13 +31,7 @@ Welcome to my GitHub! I'm an **Embedded Systems & AI enthusiast** with a strong 
 - Reinforcement Learning for robotic control
 - Sensor fusion & real-time data processing
 
----
 
-## 📊 GitHub Stats
-![Jesmeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jesmeer&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesmeer&layout=compact&theme=radical)
-
----
 
 ## 📫 Get in Touch
 - **Email:** jesmeer7@gmail.com
