@@ -1,11 +1,38 @@
-<h1 align="center">Hi 👋, I'm Jesmeer Navas</h1>
-<h3 align="center">Future-Driven Engineer | Specializing in AI, Embedded systems, and Hardware Design</h3>
+# Hi there, I'm Jesmeer! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jesmeer-navas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jesmeer-navas" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/jesmeer7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/jesmeer7" height="30" width="40" /></a>
-</p>
+🚀 **Aspiring Embedded Systems Engineer | Robotics | AI | Hardware Design | PCB Design**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Welcome to my GitHub! I'm an **Embedded Systems & AI enthusiast** with a strong passion for designing intelligent hardware solutions. My journey began with electrical engineering, and I’m now diving deep into **AI-driven robotics, embedded systems, and chip design**. My goal is to develop **cutting-edge embedded AI solutions** and **innovative hardware architectures** for real-world applications. 
+
+---
+
+## 🔧 Skills & Technologies
+
+### **🖥️ Programming & Software**
+- C, C++, Python, Rust
+- Embedded C for microcontrollers (ARM, ESP32, STM32, AVR, etc.)
+- Linux for Embedded Systems
+- AI/ML frameworks: TensorFlow Lite, Edge Impulse, PyTorch
+- PCB Design: KiCad, Altium Designer
+
+### **🔩 Embedded Systems & Hardware**
+- Microcontroller programming (ESP32, STM32, Arduino, Raspberry Pi, Jetson Nano)
+- Hardware debugging & testing (Oscilloscope, Logic Analyzer, Multimeter)
+- Real-time systems & firmware development
+- Motor control & power electronics
+- IoT & wireless communication (MQTT, LoRa, Zigbee, BLE, Wi-Fi)
+
+### **🤖 Robotics & AI**
+- AI-powered motor controllers & smart automation
+- Computer vision & AI-powered robotics (OpenCV, TinyML, NVIDIA Jetson)
+- Reinforcement Learning for robotic control
+- Sensor fusion & real-time data processing
+
+---
+
+## 📫 Get in Touch
+- **Email:** jesmeer7@gmail.com
+- **LinkedIn:** [Jesmeer Navas](https://www.linkedin.com/in/jesmeer-navas/)
+- **Hugging Face:** [Jesmeer](https://huggingface.co/Jesmeer)
+
+🔍 Always open to collaboration, freelancing, and exciting opportunities in **AI, Embedded Systems, Robotics, and Hardware Design**!
