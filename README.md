@@ -1,66 +1,39 @@
-# Hey there, I'm Jesmeer Navas! 👋
+# Hi there, I'm Jesmeer! 👋
 
-![Jesmeer Navas](https://img.shields.io/badge/GitHub-1-6cc644?style=flat-square&logo=github&logoColor=white)
-![Jesmeer Navas](https://img.shields.io/badge/Commits-3-orange?style=flat-square&logo=git&logoColor=white)
-![Jesmeer Navas](https://img.shields.io/badge/Followers-0-brightgreen?style=flat-square&logo=github&logoColor=white)
+🚀 **Aspiring Embedded Systems Engineer | Robotics | AI | Hardware Design | PCB Design**
 
-Welcome to my GitHub profile. I'm a passionate developer interested in various technologies. Although my activity on GitHub is currently limited, please feel free to explore and get in touch. Here's a summary of my profile and projects.
+Welcome to my GitHub! I'm an **Embedded Systems & AI enthusiast** with a strong passion for designing intelligent hardware solutions. My journey began with electrical engineering, and I’m now diving deep into **AI-driven robotics, embedded systems, and chip design**. My goal is to develop **cutting-edge embedded AI solutions** and **innovative hardware architectures** for real-world applications. 
 
-## My Skills and Interests
+---
 
-```javascript
-const jesmeerNavas = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "Python", "Java", "C++"],
-  askMeAbout: ["Web Development", "Programming", "Tech"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Vue"],
-      css: ["Bootstrap", "Tailwind CSS"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express"],
-      python: ["Flask"]
-    },
-    databases: ["MongoDB", "MySQL", "SQLite"],
-  },
-  architecture: ["Modern Web Applications", "Progressive Web Apps"],
-  currentFocus: "Learning React Native",
-};
-```
+## 🔧 Skills & Technologies
 
-## My GitHub Journey
+### **🖥️ Programming & Software**
+- C, C++, Python, Rust
+- Embedded C for microcontrollers (ARM, ESP32, STM32, AVR, etc.)
+- Linux for Embedded Systems
+- AI/ML frameworks: TensorFlow Lite, Edge Impulse, PyTorch
+- PCB Design: KiCad, Altium Designer
 
-Since joining GitHub in June 2021, I have created **1 public repository** called "jesmeer." The repository reflects my personal project, and I'm excited to share and collaborate on more projects in the future.
+### **🔩 Embedded Systems & Hardware**
+- PCB Designing with KiCad
+- Microcontroller programming (ESP32, STM32, Arduino, Raspberry Pi, Jetson Nano)
+- Hardware debugging & testing (Oscilloscope, Logic Analyzer, Multimeter)
+- Real-time systems & firmware development
+- Motor control & power electronics
+- IoT & wireless communication (MQTT, LoRa, Zigbee, BLE, Wi-Fi)
 
-### My Projects
+### **🤖 Robotics & AI**
+- AI-powered motor controllers & smart automation
+- Computer vision & AI-powered robotics (OpenCV, TinyML, NVIDIA Jetson)
+- Reinforcement Learning for robotic control
+- Sensor fusion & real-time data processing
 
-- **jesmeer**
+---
 
-  Find the repository [here](https://github.com/Jesmeer/jesmeer)
+## 📫 Get in Touch
+- **Email:** jesmeer7@gmail.com
+- **LinkedIn:** [Jesmeer Navas](https://www.linkedin.com/in/jesmeer-navas/)
+- **Hugging Face:** [Jesmeer](https://huggingface.co/Jesmeer)
 
-  This is my personal project that showcases the skills and knowledge I have acquired so far. I plan to update it regularly with new features and improvements.
-
-For a more detailed insight into my projects' codebase, see the repository documentation and feel free to connect with me.
-
-## GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jesmeer)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesmeer)
-
-You can find more information about my trophies and streak by clicking on the respective images.
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Jesmeer)](https://github.com/Jesmeer)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jesmeer)](https://git.io/streak-stats)
-
-## Let's Connect
-
-Although my presence on GitHub is still in its early stages, I would love to connect with fellow developers and collaborate on exciting projects. You can reach me through the following channels:
-
-- Email: [jesmeernavas@example.com](mailto:jesmeernavas@example.com)
-- Twitter: [@JesmeerNavas](https://twitter.com/JesmeerNavas)
-- LinkedIn: [Jesmeer Navas](https://www.linkedin.com/in/jesmeernavas)
-
-Please don't hesitate to reach out if you have any inquiries, suggestions, or project ideas. I'm open to all sorts of technical discussions and contributions.
-
-> "There are no traffic jams along the extra mile." - Roger Staubach
+🔍 Always open to collaboration, freelancing, and exciting opportunities in **AI, Embedded Systems, Robotics, and Hardware Design**!
