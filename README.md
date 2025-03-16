@@ -1,6 +1,6 @@
 # Hi there, I'm Jesmeer! 👋
 
-![Jesmeer Banner]([https://github.com/Jesmeer/Jesmeer/blob/main/banner.png](https://drive.google.com/file/d/1o3XwC-6ll8XKz8DcOt03088uKjGVwMV7/view?usp=sharing))
+![Jesmeer Banner]([https://drive.google.com/file/d/1o3XwC-6ll8XKz8DcOt03088uKjGVwMV7/view?usp=sharing])
 
 🚀 **Aspiring Embedded Systems Engineer | Robotics | AI | Hardware Design | PCB Design**
 
