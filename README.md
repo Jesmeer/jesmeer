@@ -38,4 +38,4 @@ Welcome to my GitHub! I'm an **Embedded Systems & AI enthusiast** with a strong 
 - **LinkedIn:** [Jesmeer Navas](https://www.linkedin.com/in/jesmeer-navas/)
 - **Hugging Face:** [Jesmeer](https://huggingface.co/Jesmeer)
 
-🔍 Always open to collaboration, freelancing, and exciting opportunities in **AI, Embedded Systems, Robotics, and Hardware Design**!
+🔍 Always open to collaboration, freelancing, and exciting opportunities in **AI, Automation, Embedded Systems, Robotics, and Hardware Design**!
