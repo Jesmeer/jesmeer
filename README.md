@@ -1,5 +1,7 @@
 # Hi there, I'm Jesmeer! 👋
 
+![Jesmeer Banner](https://github.com/Jesmeer/Jesmeer/blob/main/banner.png)
+
 🚀 **Aspiring Embedded Systems Engineer | Robotics | AI | Hardware Design | PCB Design**
 
 Welcome to my GitHub! I'm an **Embedded Systems & AI enthusiast** with a strong passion for designing intelligent hardware solutions. My journey began with electrical engineering, and I’m now diving deep into **AI-driven robotics, embedded systems, and chip design**. My goal is to develop **cutting-edge embedded AI solutions** and **innovative hardware architectures** for real-world applications. 
@@ -13,7 +15,7 @@ Welcome to my GitHub! I'm an **Embedded Systems & AI enthusiast** with a strong 
 - Embedded C for microcontrollers (ARM, ESP32, STM32, AVR, etc.)
 - Linux for Embedded Systems
 - AI/ML frameworks: TensorFlow Lite, Edge Impulse, PyTorch
-- PCB Design: KiCad, Altium Designer
+- PCB Design: KiCad
 
 ### **🔩 Embedded Systems & Hardware**
 - PCB Designing with KiCad
@@ -28,6 +30,12 @@ Welcome to my GitHub! I'm an **Embedded Systems & AI enthusiast** with a strong 
 - Computer vision & AI-powered robotics (OpenCV, TinyML, NVIDIA Jetson)
 - Reinforcement Learning for robotic control
 - Sensor fusion & real-time data processing
+
+---
+
+## 📊 GitHub Stats
+![Jesmeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jesmeer&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesmeer&layout=compact&theme=radical)
 
 ---
 
