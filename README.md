@@ -1,6 +1,3 @@
-![Banner](path/to/banner.gif)
-
-
 I'm Jesmeer! 👋
 
 
